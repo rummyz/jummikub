@@ -1,0 +1,1 @@
+Quite old already, never released at all. This library uses an LP model to solve Rummikub problems.
